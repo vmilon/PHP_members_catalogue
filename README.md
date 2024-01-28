@@ -7,7 +7,7 @@ Create a database in phpMyAdmin (or similar) called catalogue and import the mem
 
 Using xampp:
 
-Create a Folder in C/xampp/htdocs/PHP and name it whatever suits you. I personally named it members_catalogue.
+Create a Folder in C/xampp/htdocs/PHP and name it whatever suits you. I personally named it members_catalogue. Then unzip the photos.7z.
 
 Start your apache server and MySQL server in Xampp control panel
 
